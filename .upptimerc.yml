@@ -10,17 +10,11 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.tilmor.com
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  theme: light
+  logoUrl: https://raw.githubusercontent.com/tilmorproducts/ecommerce-status/master/assets/tilmor-ox.png
+  themeUrl: https://raw.githubusercontent.com/tilmorproducts/ecommerce-status/master/assets/tilmor-dark-theme.css
   name: Tilmor Status
   introTitle: "**Tilmor** Uptime"
   introMessage: This status page tracks the uptime and current status of tilmor.com
-#   navbar:
-#     - title: Status
-#       href: /
-#     - title: GitHub
-#       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
