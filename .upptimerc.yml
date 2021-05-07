@@ -12,7 +12,7 @@ status-website:
   cname: status.tilmor.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  theme: ocean
+  theme: light
   name: Tilmor Status
   introTitle: "**Tilmor** Uptime"
   introMessage: This status page tracks the uptime and current status of tilmor.com
