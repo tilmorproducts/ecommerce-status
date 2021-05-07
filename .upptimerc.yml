@@ -11,7 +11,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.tilmor.com
   logoUrl: https://raw.githubusercontent.com/tilmorproducts/ecommerce-status/master/assets/tilmor-ox.png
-  themeUrl: https://raw.githubusercontent.com/tilmorproducts/ecommerce-status/master/assets/tilmor-dark-theme.css
+  themeUrl: https://raw.githubusercontent.com/tilmorproducts/ecommerce-status/master/assets/my-custom-theme.css
   name: Tilmor Status
   introTitle: "**Tilmor** Uptime"
   introMessage: This status page tracks the uptime and current status of tilmor.com
