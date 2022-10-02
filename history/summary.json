@@ -2,7 +2,7 @@
   {
     "name": "Tilmor.com",
     "url": "https://www.tilmor.com/api/health",
-    "icon": "https://favicons.githubusercontent.com/www.tilmor.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.tilmor.com.ico",
     "slug": "tilmor-com",
     "status": "up",
     "uptime": "99.81%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 336,
-    "timeDay": 224,
-    "timeWeek": 288,
-    "timeMonth": 300,
+    "timeDay": 324,
+    "timeWeek": 294,
+    "timeMonth": 302,
     "timeYear": 322,
     "dailyMinutesDown": {
       "2022-09-09": 20,
