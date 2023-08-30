@@ -4,7 +4,7 @@
     "url": "https://www.tilmor.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/www.tilmor.com.ico",
     "slug": "tilmor-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 311,
     "timeYear": 287,
     "dailyMinutesDown": {
+      "2023-08-30": 0,
       "2023-08-01": 25,
       "2023-07-26": 54,
       "2022-12-05": 21,
