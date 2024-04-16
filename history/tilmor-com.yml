@@ -1,7 +1,7 @@
 url: https://www.tilmor.com/api/health
-status: up
-code: 200
-responseTime: 209
-lastUpdated: 2024-04-15T23:05:20.799Z
+status: down
+code: 502
+responseTime: 385
+lastUpdated: 2024-04-16T14:38:46.458Z
 startTime: 2021-05-07T01:42:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
