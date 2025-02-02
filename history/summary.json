@@ -6,17 +6,18 @@
     "slug": "tilmor-com",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "97.23%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.96%",
     "time": 301,
     "timeDay": 342,
     "timeWeek": 314,
     "timeMonth": 287,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2025-02-01": 0,
+      "2025-02-02": 25,
+      "2025-02-01": 15,
       "2024-10-21": 48,
       "2024-03-08": 101
     }
